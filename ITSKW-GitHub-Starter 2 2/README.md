@@ -1,0 +1,2 @@
+# ITSKW
+Static starter site.
